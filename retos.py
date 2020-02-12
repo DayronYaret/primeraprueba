@@ -17,7 +17,7 @@ for num0 in myList:
     i+=1
     k=i
     print(myList)
-
+print("--------------------------------------------------")
 print("The list with unique elements only")
 print(myList)
 #########################################################################
