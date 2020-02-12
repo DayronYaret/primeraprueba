@@ -1,3 +1,4 @@
+#primer reto: Dado el array, eliminar los elementos que se repiten utilizando in o in not
 myList = [1, 2, 4, 4, 1, 4, 2, 6, 2, 9]
 print("Initial list")
 print(myList)
